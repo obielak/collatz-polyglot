@@ -17,4 +17,4 @@ function collatz(x) {
 
 var start = 59; 
 length = collatz(start)
-console.log("Collatz ("+String(start)+") has a  length of ("+String(length)+")") 
+console.log("Collatz "+String(start)+" has a  length of "+String(length)+"") 
